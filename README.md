@@ -52,6 +52,8 @@ Your code is setup so that it can grade itself using Python tests. To run the te
 
 ## Assignment #1: Python Lists
 
+> All of this work should be done in the [assignment1.py](assignment1.py) file.
+
 ### PART 1: CREATE, UPDATE, READ, DELETE
 
 > **NOTE**: In order for the tests to work, some variables have been created with the value of `None`. You should delete `None` and update it with your code.
@@ -99,3 +101,5 @@ The problems below are extra practice to help you extend your knowledge of lists
 15. Find the maximium and minimum numbers in the numbers list. Save them in the max_val and min_val variables
 16. Iterate through the all_even array, increase the value by 1 ONLY if the number is odd, and add it to the end of the all_even array. If the number is even, simply add it to the end of all_even without changing the value. Thus, your final list should be only even numbers.
 17. You really like jokes that start with the phrase "Why". Iterate through punny_jokes and if the joke starts with the phrase Why then add it to the end of the why_jokes list. If it doesn't start with the phrase Why, do not add it to the why_jokes list.
+
+## Assignment #2: String Indexes and Methods

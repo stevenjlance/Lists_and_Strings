@@ -1,4 +1,5 @@
-# WRITE YOUR CODE HERE
+# To run your code use the command python3 assignment1.py
+# To grade your code use the directions in the README.md file in the "Grading Your Code Section"
 
 # PART 1: CREATE, UPDATE, READ, DELETE
 
