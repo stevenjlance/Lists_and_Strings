@@ -63,7 +63,7 @@ favorite_joke = None
 golf_joke = None
 
 
-# 12. STRETCH: Make a copy of the punny_jokes list and save it to the variable reverse_aphabetized. Then, sort the list in REVERSE alphabetical order.
+# 12. STRETCH: Make a copy of the punny_jokes list and save it to the variable reverse_alphabetized. Then, sort the list in REVERSE alphabetical order.
 reverse_alphabetized = None
 
 
@@ -83,10 +83,13 @@ oddNums = [1, 3, 5, 7, 9, 11, 13, 15, 17, 19, 21]
 evenNums = []
 
 
-# BONUS: The problems below are extra practice to help you extend your knowledge of lists! They are not required, but are very helpful as you grow in your knowledge of how to manipulte values in lists.
+
+# STOP AND CHECK: Check that your answers are correct by running test_part4 as instructed in the READ_ME.
+
+# BONUS: The problems below are extra practice to help you extend your knowledge of lists! They are not required, but are very helpful as you grow in your knowledge of how to manipulate values in lists.
 
 
-# 15. Find the maximium and minimum numbers in the numbers list. Save them in the max_val and min_val variables
+# 15. Find the maximum and minimum numbers in the numbers list. Save them in the max_val and min_val variables
 max_val = None
 min_val = None
 

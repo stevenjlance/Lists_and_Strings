@@ -19,15 +19,15 @@ shout_tale = None
 whisper_tale = None
 
 
-# 4. Extract the first charcter of the string and store it in the variable first_char.
+# 4. Extract the first character of the string and store it in the variable first_char.
 first_char = None
 
 
-# 5. Extract the 92nd charcter of the string and store it in the variable middle_char.
+# 5. Extract the 92nd character of the string and store it in the variable middle_char.
 middle_char = None
 
 
-# 6. Extract the last charcter of the string and store it in the variable last_char.
+# 6. Extract the last character of the string and store it in the variable last_char.
 last_char = None
 
 
@@ -36,7 +36,7 @@ last_char = None
 # 7. Split the string every time there is a space. Store the split string in the variable split_string.
 split_string = None
 
-# 8. The princess is actaully a queen! Search the fairy_tale and replace all instances of "princess" with "queen". Save the new string in the variable queen_tale.
+# 8. The princess is actually a queen! Search the fairy_tale and replace all instances of "princess" with "queen". Save the new string in the variable queen_tale.
 queen_tale = None
 
 
@@ -55,7 +55,7 @@ reversed_story = None
 
 ## PART 3: String Iteration
 
-## 12. Iterate throught he string. Count the number of sentences by counting the number of instances of end-of-sentence punctuation (. ? and !). Store the result in the variable sentence_count.
+## 12. Iterate through the string. Count the number of sentences by counting the number of instances of end-of-sentence punctuation (. ? and !). Store the result in the variable sentence_count.
 sentence_count = 0
 
 
