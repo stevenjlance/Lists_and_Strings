@@ -94,10 +94,10 @@ Using the provided `fruits` list, complete the following
 
 A list of punny jokes have been imported into the file and saved the variable `punny_jokes`.
 
-9. The list is quite large, save the number of jokes in the variable number_of_jokes.
-10. Get the last joke on the list and save it to the favorite_joke variable
-11. Find the index of the following joke and save it to the variable golf_joke: "Why did the golfer bring two pairs of pants? In case he got a hole in one."
-12. STRETCH: Make a copy of the punny_jokes list and save it to the variable reverse_alphabetized. Then, sort the list in REVERSE alphabetical order.
+9. The list is quite large, save the number of jokes in the variable `number_of_jokes`.
+10. Get the last joke on the list and save it to the `favorite_joke` variable
+11. Find the index of the following joke and save it to the variable `golf_joke`: "Why did the golfer bring two pairs of pants? In case he got a hole in one."
+12. **STRETCH**: Make a copy of the `punny_jokes` list and save it to the variable `reverse_alphabetized`. Then, sort the list in REVERSE alphabetical order.
 
 🛑 **STOP AND CHECK**: Check that your answers are correct by running `test_part3` as instructed in the [Grading Your Code](#grading-your-code) section above.
 
