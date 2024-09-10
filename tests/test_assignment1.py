@@ -1,6 +1,6 @@
 import pytest
-from assignment1 import fruits, avengers, thirdAvenger, number_of_jokes, favorite_joke, golf_joke, reverse_alphabetized, sum, evenNums, all_even, max_val, min_val, why_jokes
-from jokes import punny_jokes
+from assignment1 import *
+from jokes import *
 
 def test_part1():
     expected = ['Iron Man', 'Thor', 'Captain America', 'Captain Marvel', 'Spider Man', 'Ant Man', 'Batman']
