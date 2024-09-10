@@ -1,4 +1,6 @@
-# Lists_and_Strings
+# Lists and Strings
+
+![List gif](./images/list.gif)
 
 Lists are one of the most integral parts of any programming language. They ensure that we can efficiently store similar data (e.g. a list of names) rather than creating endless amount of variables that will be difficult to remmeber and even harder to query for information. Strings, like lists, also have index values, methods, and can be iterated upon. Thus, many of the actions we perform on a list can also be done on string
 
